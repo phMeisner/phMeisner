@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Philipp, I am a linguist currently studying computer science. I am interested in topics such as data science, software engineering, and AI, and I enjoy continuing my education.
+
+I currently program in R, Python, and Java.
+
+
 <!--
 **phMeisner/phMeisner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
